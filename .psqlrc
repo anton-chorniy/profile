@@ -1,0 +1,6 @@
+\pset null 'NULL'
+\set PROMPT1 '%n@%M:%>%x %/# '
+\set PROMPT2 ''
+\timing on
+\pset pager off
+

@@ -1,0 +1,19 @@
+set nocompatible
+set number
+set showmode
+set incsearch
+set hlsearch
+set noic
+set backspace=indent,eol,start
+set nowrap
+set mouse=a
+set history=50
+set ruler
+set visualbell
+set smarttab
+syntax on
+colorscheme delek
+set tabstop=4
+set shiftwidth=4
+set softtabstop=4
+
